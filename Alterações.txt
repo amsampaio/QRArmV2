@@ -1,0 +1,2 @@
+nova funcionalidade: inclusão do foco auto com base na zona do ecrã pressionada
+nova funcionalidade: verifica todas as localizações onde existe o artigo selecionado
